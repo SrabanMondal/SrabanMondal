@@ -4,7 +4,7 @@
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/medakshchoudhary/count.svg" alt="visitor badge"/></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medakshchoudhary" alt="medakshchoudhary" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srabanmondal" alt="medakshchoudhary" /></a> </p>
 
 
 
