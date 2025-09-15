@@ -30,11 +30,6 @@ When I’m not coding, I’m usually **researching new ideas, sketching system d
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-<div align="center" width="full">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7&center=true&vCenter=true&width=500&lines=Perfection+is+elegance,+and+elegance+is+true+beauty)](https://git.io/typing-svg)
-
-</div>
 
 
 ## 🌐 Socials:
