@@ -1,21 +1,28 @@
 # 💫 About Me:
-System Programmer | Backend Architect | LLM Infrastructure Engineer
 
-I build low-level, high-performance systems and scalable backend platforms with real-world applications in AI, memory engines, and networking.
+System Programmer | Backend Architect | AI Infrastructure Explorer  
 
-## Highlights:
+I design and scale backend platforms with a focus on **clean architecture, industry best practices, and high-performance systems**.  
+For me, **perfection is elegance, and elegance is true beauty** — I strive to build systems that are not only fast and reliable, but also graceful in design.  
 
-- C++ Web Server from Scratch: Multi-threaded, IOCP, full HTTP parser, Express-style routing, keep-alive, adaptive per-IP rate limiting.
+### What I Build
+- **C++ Web Server from Scratch** → Learned the internals of multi-threaded IO, full HTTP parsing, and adaptive rate limiting.  
+- **AI Infrastructure & RAG Systems** → Creating scaffolding that gives stateless LLMs memory, reasoning, and continuity — aiming for **human-like companions, not just tools**.  
+- **Memory Engines** → Episodic buffers, symbolic daily tables, and chapter-based reasoning for long-term context.  
+- **Backend & P2P Systems** → Token-based chat over DHT, secure AES/MinIO storage, WebSockets, Redis caching, and real-time notifications.  
+- **Local AI Assistants** → Multi-threaded voice assistant with Whisper (STT), Coqui (TTS), and Ollama/Gemini integration.  
 
-- LLM Infra & RAG Systems: Hybrid SOTA pipelines with semantic chunking, symbolic graphs, clustered embedding tables, and local persistence.
+### Philosophy
+I enjoy the **challenge of scaling elegant systems into production**, while still diving into low-level internals out of curiosity.  
+My passion lies in giving AI a sense of **memory and continuity**, bridging the gap between stateless models and lifelong companions.  
 
-- Memory Engines: Episodic memory with rolling buffers, symbolic daily memory tables, chapter-based reasoning.
+When I’m not coding, I’m usually **researching new ideas, sketching system designs, or unwinding with some anime**.  
 
-- Backend & P2P Systems: Token-based chat over DHT, secure AES/MinIO storage with presigned URLs, room-based WebSockets, Redis caching, notifications & read receipts.
+---
 
-- Local AI Assistants: Multi-threaded voice assistant (STT with Whisper, TTS with Coqui, LLM integration via Gemini/Ollama).
+> *“If perfection is sin, I am a sinner — gladly.”*
 
-I focus on deep mastery over low-level systems, high-performance architecture, and AI-powered infrastructure — bridging the gap between theory and production.
+---
 
 <!-- Snake Game Repo View -->
 
