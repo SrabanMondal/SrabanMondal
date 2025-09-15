@@ -1,5 +1,21 @@
 # 💫 About Me:
-Hi , I'm Sraban Mondal
+🚀 System Programmer | Backend Architect | LLM Infrastructure Engineer
+
+I build low-level, high-performance systems and scalable backend platforms with real-world applications in AI, memory engines, and networking.
+
+Highlights:
+
+C++ Web Server from Scratch: Multi-threaded, IOCP, full HTTP parser, Express-style routing, keep-alive, adaptive per-IP rate limiting.
+
+LLM Infra & RAG Systems: Hybrid SOTA pipelines with semantic chunking, symbolic graphs, clustered embedding tables, and local persistence.
+
+Memory Engines: Episodic memory with rolling buffers, symbolic daily memory tables, chapter-based reasoning.
+
+Backend & P2P Systems: Token-based chat over DHT, secure AES/MinIO storage with presigned URLs, room-based WebSockets, Redis caching, notifications & read receipts.
+
+Local AI Assistants: Multi-threaded voice assistant (STT with Whisper, TTS with Coqui, LLM integration via Gemini/Ollama).
+
+I focus on deep mastery over low-level systems, high-performance architecture, and AI-powered infrastructure — bridging the gap between theory and production.
 
 <!-- Snake Game Repo View -->
 
