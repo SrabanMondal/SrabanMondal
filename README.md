@@ -31,7 +31,9 @@ When I’m not coding, I’m usually **researching new ideas, sketching system d
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SrabanMondal/SrabanMondal/main/profile-3d-contrib/profile-night-rainbow.svg" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7&center=true&vCenter=true&width=500&lines=Perfection+is+elegance,+and+elegance+is+true+beauty)](https://git.io/typing-svg)
+
 </div>
 
 
