@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 System Programmer | Backend Architect | LLM Infrastructure Engineer
+System Programmer | Backend Architect | LLM Infrastructure Engineer
 
 I build low-level, high-performance systems and scalable backend platforms with real-world applications in AI, memory engines, and networking.
 
