@@ -10,7 +10,13 @@ For me, **perfection is elegance, and elegance is true beauty** — I strive to 
 - **AI Infrastructure & RAG Systems** → Creating scaffolding that gives stateless LLMs memory, reasoning, and continuity — aiming for **human-like companions, not just tools**.  
 - **Memory Engines** → Episodic buffers, symbolic daily tables, and chapter-based reasoning for long-term context.  
 - **Backend & P2P Systems** → Token-based chat over DHT, secure AES/MinIO storage, WebSockets, Redis caching, and real-time notifications.  
-- **Local AI Assistants** → Multi-threaded voice assistant with Whisper (STT), Coqui (TTS), and Ollama/Gemini integration.  
+- **Local AI Assistants** → Multi-threaded voice assistant with Whisper (STT), Coqui (TTS), and Ollama/Gemini integration.
+- **Open-Source: Typeflow** → Creator of a full **visual, type-safe workflow engine for Python**, featuring:
+  - drag-and-drop React Flow editor  
+  - function & class node system  
+  - DAG compiler + Python orchestrator generation  
+  - live execution via SSE  
+  This project pushes toward a future of **visual, OOP-driven, AI-native programming**.
 
 ### Philosophy
 I enjoy the **challenge of scaling elegant systems into production**, while still diving into low-level internals out of curiosity.  
