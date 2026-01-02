@@ -14,7 +14,7 @@ For me, **perfection is elegance, and elegance is true beauty** — I strive to 
   Progressed from a threaded prototype (Whisper + Coqui + Gemini) to a **CPU-first, turn-aware, multiprocessing voice assistant**, featuring:
   - event-driven orchestration  
   - interruption-safe (barge-in) interaction  
-  - streaming STT → LLM → TTS pipelines  
+  - streaming STT → LLM → TTS pipelines (Moonshine + Silero VAD + Ollama LLM + Piper TTS)  
   - fully local inference using ONNX / GGUF models  
   This project emphasizes **systems design, concurrency, and low-latency control planes**, not just model integration.
 - **Open-Source: Typeflow** → Creator of a full **visual, type-safe workflow engine for Python**, featuring:
