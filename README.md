@@ -7,7 +7,10 @@ For me, **perfection is elegance, and elegance is true beauty** — I strive to 
 
 ### What I Build
 - **C++ Web Server from Scratch** → Learned the internals of multi-threaded IO, full HTTP parsing, and adaptive rate limiting.  
-- **AI Infrastructure & RAG Systems** → Creating scaffolding that gives stateless LLMs memory, reasoning, and continuity — aiming for **human-like companions, not just tools**.  
+- **AI Infrastructure & RAG Systems** → Experimental LLM infrastructure beyond demos.
+  - retrieval as a policy: query decomposition, routing, and weighting
+  - hybrid neuro-symbolic knowledge access
+  - ablation, failure-mode analysis, and evaluation tooling  
 - **Memory Engines** → Episodic buffers, symbolic daily tables, and chapter-based reasoning for long-term context.  
 - **Backend & P2P Systems** → Token-based chat over DHT, secure AES/MinIO storage, WebSockets, Redis caching, and real-time notifications.  
 - **Local Voice Assistants (V1 → V2 Evolution)**  
