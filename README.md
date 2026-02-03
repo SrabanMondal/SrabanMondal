@@ -6,7 +6,8 @@ I design and scale backend platforms with a focus on **clean architecture, indus
 For me, **perfection is elegance, and elegance is true beauty** — I strive to build systems that are not only fast and reliable, but also graceful in design.  
 
 ### What I Build
-- **C++ Web Server from Scratch** → Learned the internals of multi-threaded IO, full HTTP parsing, and adaptive rate limiting.  
+- **C++ Web Server from Scratch** → Learned the internals of multi-threaded IO, full HTTP parsing, and adaptive rate limiting.
+- **Custom UDP VPN (SOCKS5-based)** → Built a custom UDP transport with session multiplexing, in-place AEAD encryption, and out-of-order packet handling to tunnel TCP traffic through restrictive networks.
 - **AI Infrastructure & RAG Systems** → Experimental LLM infrastructure beyond demos.
   - retrieval as a policy: query decomposition, routing, and weighting
   - hybrid neuro-symbolic knowledge access
