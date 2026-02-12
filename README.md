@@ -11,9 +11,13 @@ For me, **perfection is elegance, and elegance is true beauty** — I strive to 
 - **AI Infrastructure & RAG Systems** → Experimental LLM infrastructure beyond demos.
   - retrieval as a policy: query decomposition, routing, and weighting
   - hybrid neuro-symbolic knowledge access
-  - ablation, failure-mode analysis, and evaluation tooling  
-- **Memory Engines** → Episodic buffers, symbolic daily tables, and chapter-based reasoning for long-term context.  
-- **Backend & P2P Systems** → Token-based chat over DHT, secure AES/MinIO storage, WebSockets, Redis caching, and real-time notifications.  
+  - ablation, failure-mode analysis, and evaluation tooling
+  - Episodic buffers, symbolic daily tables, and chapter-based reasoning for long-term context.
+  - Lightweight ADAS perception-and-control pipeline using YOLOPv2 segmentation/detection and MPC steering, optimized for real-time performance on low-power Intel hardware via OpenVINO.
+- **Backend & P2P Systems**
+  - Built a **token-based 1v1 P2P chat system** over a **Kademlia DHT**, featuring a fully distributed matchmaking protocol.
+  - Developed a **secure AES-encrypted MinIO file-storage service** with a **Google-Drive-like interface**, implemented in Go.
+  - Implemented a **real-time messaging platform** optimized with **Redis**, supporting scalable WebSocket rooms and instant notifications.
 - **Local Voice Assistants (V1 → V2 Evolution)**  
   Progressed from a threaded prototype (Whisper + Coqui + Gemini) to a **CPU-first, turn-aware, multiprocessing voice assistant**, featuring:
   - event-driven orchestration  
