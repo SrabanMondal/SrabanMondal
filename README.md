@@ -9,61 +9,54 @@ I care about **clean design, measurable performance, and systems that don’t br
 
 ---
 
-## ⚡ Snapshot
-- 🧠 Systems-focused engineer (C++ / Go / distributed systems)
-- ⚙️ Built high-concurrency servers (50k+ req/sec) & custom network protocols
-- 🤖 Working on AI infra, agent systems, and edge-optimized pipelines
-- 🎯 Focus: performance, concurrency, and fault-tolerant design
+## Snapshot
+- Systems-focused engineer (C++ / Go / distributed systems)
+- Built high-concurrency servers (50k+ req/sec) & custom network protocols
+- Working on AI infra, agent systems, and edge-optimized pipelines
+- Focus: performance, concurrency, and fault-tolerant design
 
 ---
 
-## 🚀 Selected Work
+## What I build
 
-### ⚡ Adaptive C++ HTTP Server
+### Adaptive C++ HTTP Server
 High-concurrency HTTP/1.1 server built from scratch  
 → IOCP + overlapped I/O, 52k+ req/sec, sub-10ms latency  
 → lock-striped rate limiter + zero-disk static cache  
 
----
-
-### 🌐 Proxy-VPN (SOCKS5 over UDP)
+### Proxy-VPN (SOCKS5 over UDP)
 Custom secure transport protocol in Go  
 → multiplexed UDP + sliding window reordering  
 → zero-allocation data path + AEAD encryption  
 
----
-
-### 🧠 Voice Assistant V2 (Local AI Agent)
+### Voice Assistant V2 (Local AI Agent)
 Low-latency, CPU-first AI assistant  
 → multiprocessing architecture (GIL bypass)  
 → streaming STT → LLM → TTS pipeline  
-→ interruption-safe (turn-aware orchestration)  
+→ interruption-safe (turn-aware orchestration)
+→ speculative intent decoding
 
----
-
-### 🧩 sqllm — Agentic Text-to-SQL
+### sqllm — Agentic Text-to-SQL
 RAG-based CLI agent for database querying  
 → tool-calling loop + schema retrieval  
 → 85% execution success rate  
 → multi-stage safety + query repair  
 
----
-
-## 🧠 Current Focus
+## Current Focus
 - AI systems with **memory, retrieval, and reasoning loops**
 - Low-level systems (networking, concurrency, performance)
 - Distributed & event-driven backend architectures
 
 ---
 
-## 🛠 Core Stack
+## Core Stack
 C++, Go, Python, TypeScript  
 Distributed Systems, Networking, Multithreading  
 ONNX, TensorRT, OpenVINO, LLM Agent Pipelines  
 
 ---
 
-## 🧩 Beyond Code
+## Beyond Code
 - Exploring how AI systems can gain **memory and continuity**
 - Interested in **failure modes, system behavior, and edge cases**
 - Occasionally unwinding with anime & deep technical rabbit holes  
