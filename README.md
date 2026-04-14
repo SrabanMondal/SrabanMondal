@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Systems Programmer | Backend Architect | AI Infrastructure Explorer  
+Systems Programmer | Backend Architect | AI Systems Engineer  
 
 I design and scale high-performance backend systems, low-latency AI pipelines, and distributed architectures.  
 I care about **clean design, measurable performance, and systems that don’t break under pressure**.  
@@ -21,26 +21,26 @@ I care about **clean design, measurable performance, and systems that don’t br
 
 ### Adaptive C++ HTTP Server
 High-concurrency HTTP/1.1 server built from scratch  
-→ IOCP + overlapped I/O, 52k+ req/sec, sub-10ms latency  
-→ lock-striped rate limiter + zero-disk static cache  
+- IOCP + overlapped I/O, 52k+ req/sec, sub-10ms latency  
+- lock-striped rate limiter + zero-disk static cache  
 
 ### Proxy-VPN (SOCKS5 over UDP)
 Custom secure transport protocol in Go  
-→ multiplexed UDP + sliding window reordering  
-→ zero-allocation data path + AEAD encryption  
+- multiplexed UDP + sliding window reordering  
+- zero-allocation data path + AEAD encryption  
 
 ### Voice Assistant V2 (Local AI Agent)
 Low-latency, CPU-first AI assistant  
-→ multiprocessing architecture (GIL bypass)  
-→ streaming STT → LLM → TTS pipeline  
-→ interruption-safe (turn-aware orchestration)
-→ speculative intent decoding
+- multiprocessing architecture (GIL bypass)  
+- streaming STT → LLM → TTS pipeline  
+- interruption-safe (turn-aware orchestration)
+- speculative intent decoding
 
 ### sqllm — Agentic Text-to-SQL
 RAG-based CLI agent for database querying  
-→ tool-calling loop + schema retrieval  
-→ 85% execution success rate  
-→ multi-stage safety + query repair  
+- tool-calling loop + schema retrieval  
+- 85% execution success rate  
+- multi-stage safety + query repair  
 
 ## Current Focus
 - AI systems with **memory, retrieval, and reasoning loops**
