@@ -17,35 +17,29 @@ I care about **clean design, measurable performance, and systems that don’t br
 
 ---
 
-## What I build
+## What I Build
 
-### Adaptive C++ HTTP Server
-High-concurrency HTTP/1.1 server built from scratch  
-- IOCP + overlapped I/O, 52k+ req/sec, sub-10ms latency  
-- lock-striped rate limiter + zero-disk static cache  
+### Systems & Networking
+C++ HTTP server from scratch → multi-threaded IO, full HTTP parsing, adaptive rate limiting, pushing ~50k+ req/sec  
+Custom UDP VPN (SOCKS5) → multiplexed transport, AEAD encryption, out-of-order handling to tunnel TCP over restrictive networks  
 
-### Proxy-VPN (SOCKS5 over UDP)
-Custom secure transport protocol in Go  
-- multiplexed UDP + sliding window reordering  
-- zero-allocation data path + AEAD encryption  
+### AI Infrastructure & Agents
+LLM systems beyond demos → retrieval-as-policy, query routing, and evaluation pipelines  
+sqllm → agentic text-to-SQL with tool-calling loops, schema retrieval, and safe query execution  
+Local Voice Assistant (V1 → V2) → evolved into a CPU-first, turn-aware system with streaming STT → LLM → TTS and interruption-safe orchestration  
 
-### Voice Assistant V2 (Local AI Agent)
-Low-latency, CPU-first AI assistant  
-- multiprocessing architecture (GIL bypass)  
-- streaming STT → LLM → TTS pipeline  
-- interruption-safe (turn-aware orchestration)
-- speculative intent decoding
+### Applied AI & Edge Systems
+ADAS pipeline → YOLOPv2 + MPC-based control, optimized via OpenVINO for real-time edge deployment  
+Focus on optimizing models and control loops for constrained hardware  
 
-### sqllm — Agentic Text-to-SQL
-RAG-based CLI agent for database querying  
-- tool-calling loop + schema retrieval  
-- 85% execution success rate  
-- multi-stage safety + query repair  
+### Backend & Distributed Systems
+P2P chat over Kademlia DHT → fully distributed matchmaking  
+AES-encrypted MinIO storage → Google-Drive-like system in Go  
+Real-time messaging platform → Redis-backed WebSocket scaling  
 
-## Current Focus
-- AI systems with **memory, retrieval, and reasoning loops**
-- Low-level systems (networking, concurrency, performance)
-- Distributed & event-driven backend architectures
+### Tools & Experiments
+Typeflow → visual, type-safe workflow engine (React Flow + DAG compiler + SSE execution)  
+Exploring AI-native programming paradigms through visual + OOP abstractions  
 
 ---
 
