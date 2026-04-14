@@ -1,46 +1,76 @@
 # 💫 About Me:
 
-System Programmer | Backend Architect | AI Infrastructure Explorer  
+Systems Programmer | Backend Architect | AI Infrastructure Explorer  
 
-I design and scale backend platforms with a focus on **clean architecture, industry best practices, and high-performance systems**.  
-For me, **perfection is elegance, and elegance is true beauty** — I strive to build systems that are not only fast and reliable, but also graceful in design.  
+I design and scale high-performance backend systems, low-latency AI pipelines, and distributed architectures.  
+I care about **clean design, measurable performance, and systems that don’t break under pressure**.  
 
-### What I Build
-- **C++ Web Server from Scratch** → Learned the internals of multi-threaded IO, full HTTP parsing, and adaptive rate limiting.
-- **Custom UDP VPN (SOCKS5-based)** → Built a custom UDP transport with session multiplexing, in-place AEAD encryption, and out-of-order packet handling to tunnel TCP traffic through restrictive networks.
-- **AI Infrastructure & RAG Systems** → Experimental LLM infrastructure beyond demos.
-  - retrieval as a policy: query decomposition, routing, and weighting
-  - hybrid neuro-symbolic knowledge access
-  - ablation, failure-mode analysis, and evaluation tooling
-  - Episodic buffers, symbolic daily tables, and chapter-based reasoning for long-term context.
-  - Lightweight ADAS perception-and-control pipeline using YOLOPv2 segmentation/detection and MPC steering, optimized for real-time performance on low-power Intel hardware via OpenVINO.
-- **Backend & P2P Systems**
-  - Built a **token-based 1v1 P2P chat system** over a **Kademlia DHT**, featuring a fully distributed matchmaking protocol.
-  - Developed a **secure AES-encrypted MinIO file-storage service** with a **Google-Drive-like interface**, implemented in Go.
-  - Implemented a **real-time messaging platform** optimized with **Redis**, supporting scalable WebSocket rooms and instant notifications.
-- **Local Voice Assistants (V1 → V2 Evolution)**  
-  Progressed from a threaded prototype (Whisper + Coqui + Gemini) to a **CPU-first, turn-aware, multiprocessing voice assistant**, featuring:
-  - event-driven orchestration  
-  - interruption-safe (barge-in) interaction  
-  - streaming STT → LLM → TTS pipelines (Moonshine + Silero VAD + Ollama LLM + Piper TTS)  
-  - fully local inference using ONNX / GGUF models  
-  This project emphasizes **systems design, concurrency, and low-latency control planes**, not just model integration.
-- **Open-Source: Typeflow** → Creator of a full **visual, type-safe workflow engine for Python**, featuring:
-  - drag-and-drop React Flow editor  
-  - function & class node system  
-  - DAG compiler + Python orchestrator generation  
-  - live execution via SSE  
-  This project pushes toward a future of **visual, OOP-driven, AI-native programming**.
-
-### Philosophy
-I enjoy the **challenge of scaling elegant systems into production**, while still diving into low-level internals out of curiosity.  
-My passion lies in giving AI a sense of **memory and continuity**, bridging the gap between stateless models and lifelong companions.  
-
-When I’m not coding, I’m usually **researching new ideas, sketching system designs, or unwinding with some anime**.  
+> *Perfection is elegance — and elegance is engineered.*
 
 ---
 
-> *“If perfection is sin, I am a sinner — gladly.”*
+## ⚡ Snapshot
+- 🧠 Systems-focused engineer (C++ / Go / distributed systems)
+- ⚙️ Built high-concurrency servers (50k+ req/sec) & custom network protocols
+- 🤖 Working on AI infra, agent systems, and edge-optimized pipelines
+- 🎯 Focus: performance, concurrency, and fault-tolerant design
+
+---
+
+## 🚀 Selected Work
+
+### ⚡ Adaptive C++ HTTP Server
+High-concurrency HTTP/1.1 server built from scratch  
+→ IOCP + overlapped I/O, 52k+ req/sec, sub-10ms latency  
+→ lock-striped rate limiter + zero-disk static cache  
+
+---
+
+### 🌐 Proxy-VPN (SOCKS5 over UDP)
+Custom secure transport protocol in Go  
+→ multiplexed UDP + sliding window reordering  
+→ zero-allocation data path + AEAD encryption  
+
+---
+
+### 🧠 Voice Assistant V2 (Local AI Agent)
+Low-latency, CPU-first AI assistant  
+→ multiprocessing architecture (GIL bypass)  
+→ streaming STT → LLM → TTS pipeline  
+→ interruption-safe (turn-aware orchestration)  
+
+---
+
+### 🧩 sqllm — Agentic Text-to-SQL
+RAG-based CLI agent for database querying  
+→ tool-calling loop + schema retrieval  
+→ 85% execution success rate  
+→ multi-stage safety + query repair  
+
+---
+
+## 🧠 Current Focus
+- AI systems with **memory, retrieval, and reasoning loops**
+- Low-level systems (networking, concurrency, performance)
+- Distributed & event-driven backend architectures
+
+---
+
+## 🛠 Core Stack
+C++, Go, Python, TypeScript  
+Distributed Systems, Networking, Multithreading  
+ONNX, TensorRT, OpenVINO, LLM Agent Pipelines  
+
+---
+
+## 🧩 Beyond Code
+- Exploring how AI systems can gain **memory and continuity**
+- Interested in **failure modes, system behavior, and edge cases**
+- Occasionally unwinding with anime & deep technical rabbit holes  
+
+---
+
+> *If perfection is sin, I am a sinner — gladly.*
 
 ---
 
