@@ -2,10 +2,9 @@
 
 Systems Programmer | Backend Architect | AI Systems Engineer  
 
-I design and scale high-performance backend systems, low-latency AI pipelines, and distributed architectures.  
-I care about **clean design, measurable performance, and systems that don’t break under pressure**.  
-
-> *Perfection is elegance — and elegance is engineered.*
+I design and scale backend platforms with a focus on clean architecture, industry best practices, and high-performance systems.
+For me, **perfection is elegance, and elegance is true beauty**.
+I strive to build systems that are not only fast and reliable, but also graceful and in design and measurable in performance.
 
 ---
 
@@ -50,10 +49,16 @@ ONNX, TensorRT, OpenVINO, LLM Agent Pipelines
 
 ---
 
-## Beyond Code
-- Exploring how AI systems can gain **memory and continuity**
-- Interested in **failure modes, system behavior, and edge cases**
-- Occasionally unwinding with anime & deep technical rabbit holes  
+## Philosophy
+
+I enjoy the challenge of scaling complex systems into production with elegance, while still diving into low-level internals out of curiosity.  
+
+I care deeply about writing code that is not just correct, but **readable, structured, and intentional** — where good abstraction makes systems feel almost like reading English.  
+To me, clean separation and clarity are not just aesthetics, but what make systems easier to reason about, extend, and even automate.  
+
+My interest in AI comes from a similar place: giving systems a sense of **memory and continuity**, and moving beyond stateless interactions toward something more persistent and contextual.  
+
+When I’m not coding, I’m usually exploring system design ideas, refining how I think about code structure, or unwinding with some anime.
 
 ---
 
