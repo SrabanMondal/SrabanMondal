@@ -18,27 +18,27 @@ I strive to build systems that are not only fast and reliable, but also graceful
 
 ## What I Build
 
-### Systems & Networking
-C++ HTTP server from scratch → multi-threaded IO, full HTTP parsing, adaptive rate limiting, pushing ~50k+ req/sec  
-Custom UDP VPN (SOCKS5) → multiplexed transport, AEAD encryption, out-of-order handling to tunnel TCP over restrictive networks  
+- Systems & Networking
+  - C++ HTTP server from scratch → multi-threaded IO, full HTTP parsing, adaptive rate limiting, pushing ~50k+ req/sec  
+  - Custom UDP VPN (SOCKS5) → multiplexed transport, AEAD encryption, out-of-order handling to tunnel TCP over restrictive networks  
 
-### AI Infrastructure & Agents
-LLM systems beyond demos → retrieval-as-policy, query routing, and evaluation pipelines  
-sqllm → agentic text-to-SQL with tool-calling loops, schema retrieval, and safe query execution  
-Local Voice Assistant (V1 → V2) → evolved into a CPU-first, turn-aware system with streaming STT → LLM → TTS and interruption-safe orchestration  
+- AI Infrastructure & Agents
+  - LLM systems beyond demos → retrieval-as-policy, query routing, and evaluation pipelines  
+  - sqllm → agentic text-to-SQL with tool-calling loops, schema retrieval, and safe query execution  
+  - Local Voice Assistant (V1 → V2) → evolved into a CPU-first, turn-aware system with streaming STT → LLM → TTS and interruption-safe orchestration with 0.34 RTF.
 
-### Applied AI & Edge Systems
-ADAS pipeline → YOLOPv2 + MPC-based control, optimized via OpenVINO for real-time edge deployment  
-Focus on optimizing models and control loops for constrained hardware  
+- Applied AI & Edge Systems
+  - ADAS pipeline → YOLOPv2 + MPC-based control, optimized via OpenVINO for real-time edge deployment  
+  - Focus on optimizing models and control loops for constrained hardware  
 
-### Backend & Distributed Systems
-P2P chat over Kademlia DHT → fully distributed matchmaking  
-AES-encrypted MinIO storage → Google-Drive-like system in Go  
-Real-time messaging platform → Redis-backed WebSocket scaling  
+- Backend & Distributed Systems
+  - P2P chat over Kademlia DHT → fully distributed matchmaking  
+  - AES-encrypted MinIO storage → Google-Drive-like system in Go  
+  - Real-time messaging platform → Redis-backed WebSocket scaling  
 
-### Tools & Experiments
-Typeflow → visual, type-safe workflow engine (React Flow + DAG compiler + SSE execution)  
-Exploring AI-native programming paradigms through visual + OOP abstractions  
+- Tools & Experiments
+  - Typeflow → visual, type-safe workflow engine (React Flow + DAG compiler + SSE execution)  
+  - Exploring AI-native programming paradigms through visual + OOP abstractions  
 
 ---
 
